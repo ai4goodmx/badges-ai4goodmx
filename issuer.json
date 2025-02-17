@@ -2,7 +2,7 @@
     "@context": "https://w3id.org/openbadges/v2",
     "type": "Profile",
     "id": "https://ai4goodmx.github.io/badges-ai4goodmx/issuer.json",
-    "name": "AI4Good México",
+    "name": "AI4Good Mexico",
     "url": "https://ai4good.mx",
     "email": "info@ai4good.mx",
     "publicKey": "https://ai4goodmx.github.io/badges-ai4goodmx/public_key.pem"

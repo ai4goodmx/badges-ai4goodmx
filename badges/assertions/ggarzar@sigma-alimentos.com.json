@@ -1,0 +1,17 @@
+{
+    "@context": "https://w3id.org/openbadges/v2",
+    "type": "Assertion",
+    "id": "https://ai4goodmx.github.io/badges-ai4goodmx/badges/assertions/ggarzar@sigma-alimentos.com.json",
+    "recipient": {
+        "type": "email",
+        "identity": "ggarzar@sigma-alimentos.com",
+        "hashed": false
+    },
+    "badge": "https://ai4goodmx.github.io/badges-ai4goodmx/badges/advanced_ai/ml_techniques_in_python.json",
+    "verification": {
+        "type": "hosted"
+    },
+    "issuedOn": "2025-02-17T22:15:14Z",
+    "evidence": "https://ai4goodmx.github.io/EvidenceOfCompletion/index.html",
+    "image": "https://ai4goodmx.github.io/badges-ai4goodmx/badges/Gerardo_Garza_Rodriguez.png"
+}

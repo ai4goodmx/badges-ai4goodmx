@@ -1,0 +1,18 @@
+{
+    "@context": "https://w3id.org/openbadges/v2",
+    "type": "BadgeClass",
+    "id": "https://ai4goodmx.github.io/badges-ai4goodmx/badges/advanced_ai/ml_techniques_in_python.json",
+    "name": "Completion of Advanced AI/ML Techniques in Python",
+    "description": "This badge certifies the successful completion of the course Advanced AI/ML Techniques in Python.",
+    "image": "https://ai4goodmx.github.io/badges-ai4goodmx/badges/badge_image.png",
+    "criteria": {
+        "narrative": "To obtain this badge, the student must meet the criteria described in: https://ai4goodmx.github.io/badges-ai4goodmx/badges/criteria.pdf"
+    },
+    "issuer": {
+        "type": "Profile",
+        "id": "https://ai4goodmx.github.io/badges-ai4goodmx/issuer.json",
+        "name": "AI4Good Mexico",
+        "url": "https://ai4good.mx",
+        "email": "info@ai4good.mx"
+    }
+}

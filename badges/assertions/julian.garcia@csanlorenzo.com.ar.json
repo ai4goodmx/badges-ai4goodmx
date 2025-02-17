@@ -1,0 +1,17 @@
+{
+    "@context": "https://w3id.org/openbadges/v2",
+    "type": "Assertion",
+    "id": "https://ai4goodmx.github.io/badges-ai4goodmx/badges/assertions/julian.garcia@csanlorenzo.com.ar.json",
+    "recipient": {
+        "type": "email",
+        "identity": "julian.garcia@csanlorenzo.com.ar",
+        "hashed": false
+    },
+    "badge": "https://ai4goodmx.github.io/badges-ai4goodmx/badges/advanced_ai/ml_techniques_in_python.json",
+    "verification": {
+        "type": "hosted"
+    },
+    "issuedOn": "2025-01-23T00:00:00",
+    "evidence": "",
+    "image": "https://ai4goodmx.github.io/badges-ai4goodmx/badges/Julian_Garcia.png"
+}
